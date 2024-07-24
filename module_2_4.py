@@ -20,5 +20,9 @@ for index in range(len(numbers)):
     else:
         not_primes.append(numbers[index])
 
-print(primes)
-print(not_primes)
+print(f'Простые числа: {primes}')
+print(f'Не простые числа: {not_primes}')
+
+# =>
+# Простые числа: [2, 3, 5, 7, 11, 13]
+# Не простые числа: [4, 6, 8, 9, 10, 12, 14, 15]
