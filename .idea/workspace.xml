@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de9efd25-3adc-4fcd-9f33-28fc959b9fdd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ConcpectFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_2_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_2_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +39,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.ConcpectForCycle.executor": "Run",
+    "Python.ConcpectFunctions.executor": "Run",
     "Python.ConcpectIfElseElif.executor": "Run",
     "Python.ThreadHowInterpretatorShowsVariables.executor": "Debug",
     "Python.ThreadHowInterpretatorShowsVariablesConspect.executor": "Run",
@@ -45,6 +47,7 @@
     "Python.modul_2_2.executor": "Run",
     "Python.module_2_3.executor": "Run",
     "Python.module_2_4.executor": "Run",
+    "Python.module_2_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/taggo12/Documents/GitHub/HW_Urban_Modul_2",
